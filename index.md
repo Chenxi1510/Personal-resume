@@ -129,4 +129,4 @@
 <a href="http://www.xuptciip.com.cn/show.html?team-wangdianwei"  target="_blank">Dr. D Wang</a> (XUPT, China),  <a href="http://www.xuptciip.com.cn/show.html?team-lidaxiang"  target="_blank">Dr. D Li</a>(XUPT, China),  <a href="http://www.xuptciip.com.cn/show.html?team-liuying"  target="_blank">Dr. Y Liu</a>  (XUPT, China),  <a href="https://www.shu.ac.uk/about-us/our-people/staff-profiles/jing-wang"  target="_blank">Dr. J Wang</a>(UOS, UK),  <a href="https://pure.hud.ac.uk/en/persons/zhijie-xu"  target="_blank">Dr. Z. Xu</a>(HUD, UK),  <a href="https://pure.hud.ac.uk/en/persons/louie-qin"  target="_blank">Dr. Y Qin</a> (HUD, UK),   <a href="http://www.xiyou.edu.cn/info/2407/68014.htm"  target="_blank">Dr. J Fan</a> (XUPT, China)
 
 ---
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YUCGzX_laajMEdAR9D9m39ELC5woh9n4GFe1_fZnRbU&cl=ffffff&w=a">
+<a href="https://clustrmaps.com/site/1brtb"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=Q-gTfb8c1kuGsp8n6NCtJkDME1Je0t5fKj7Ao-sW3Tk&cl=ffffff" /></a>
