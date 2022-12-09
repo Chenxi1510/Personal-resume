@@ -33,8 +33,8 @@
 ---
 ### Internship experience
 
-- 2018.09-2019.06     Xi'an Institute of Optics and Precision Mechanics, Chinese Academy of Sciences, ***OPTIMAL***    (Visiting student)
-- 2019.06-2020.01             Westlake University,               ***AI Lab***                    (Visiting student、Research Assistant)
+- 2018.09-2019.06     Xi'an Institute of Optics and Precision Mechanics, Chinese Academy of Sciences, ***OPTIMAL***   
+- 2019.06-2020.01             Westlake University,               ***AI Lab***                    
 - 2020.06-----                 Huazhong University of Science and Technology, ***BMAI***
 
 ---
